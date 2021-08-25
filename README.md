@@ -1,1 +1,2 @@
 # CICDCourseMLOPS
+Hello world MLOps
